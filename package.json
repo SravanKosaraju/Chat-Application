@@ -1,0 +1,16 @@
+{
+  "name": "sravan",
+  "version": "1.0.0",
+  "description": "this is a node server for our vchat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sravan",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "socket.io": "^4.5.1"
+  }
+}
